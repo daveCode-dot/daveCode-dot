@@ -52,15 +52,3 @@ Production systems and pipelines. Most repos are private — work speaks for its
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 </div>
-
----
-
-## 📊 Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=daveCode-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daveCode-dot&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
