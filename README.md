@@ -1,10 +1,34 @@
-Automation pipelines, AI tooling, and production systems. Most work is private.
+<div align="center">
 
-Mostly: headless game engine pipelines · edge APIs · multi-agent workflows · data scrapers · video processing.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=Automation+pipelines;AI+multi-agent+workflows;Headless+game+engine+tooling;Edge+APIs+%26+cloud+infra;Build+%E2%86%92+Deploy+%E2%86%92+Done." alt="Typing SVG" />
+
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/daveCode-dot?style=social)](https://github.com/daveCode-dot)
+&nbsp;
+![Profile views](https://komarev.com/ghpvc/?username=daveCode-dot&color=00d9ff&style=flat)
+
+</div>
 
 ---
 
-## Stack
+<div align="center">
+
+### 🤖 &nbsp;AI &nbsp;·&nbsp; ⚙️ Automation &nbsp;·&nbsp; ☁️ Cloud &nbsp;·&nbsp; 🎮 Game tooling
+
+</div>
+
+Production systems and pipelines. Most repos are private — work speaks for itself.
+
+- Multi-agent workflows orchestrated with Claude Code across Mac ↔ Windows
+- Headless UE5 pipelines: asset cooking, mod packaging, Steam Workshop deploys
+- Edge APIs and web apps on Cloudflare Workers / Pages / D1
+- Data scrapers, video processing, REST/WebSocket integrations
+- SSH + PowerShell remote automation, zero-click deploys
+
+---
+
+## 🔧 Stack
 
 <div align="center">
 
@@ -30,6 +54,8 @@ Mostly: headless game engine pipelines · edge APIs · multi-agent workflows · 
 </div>
 
 ---
+
+## 📊 Stats
 
 <div align="center">
 
